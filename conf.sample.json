@@ -5,9 +5,9 @@
   ],
   "db": {
     "host": "127.0.0.1",
-    "user": "majesticflame",
-    "password": "",
-    "database": "ccio",
+    "user": "root",
+    "password": "root",
+    "database": "cctv_shinobi",
     "port":3306
   },
   "mail":{
